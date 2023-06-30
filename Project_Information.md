@@ -1,0 +1,2 @@
+This group project, implemented by Agelonidi Despoina, Mylona Eirini, and Stavropoulos Christos, was undertaken as a Kaggle Competition for the elective course "Data Science Challenge" within the Data Science Master program at Athens University of Economic and Business.The main objective of the project was to classify scientific papers using a citation network consisting of thousands of research papers, the papers' abstracts, the authors' names, and the year of publication.
+
